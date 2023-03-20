@@ -1,0 +1,115 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    height: 80px;
+    border-bottom: 2px solid #c81523;
+}
+
+header a img {
+    padding-top: 10px;
+}
+
+.regiosterarea {
+    height: 522px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.regiosterarea h3 {
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ccc;
+    line-height: 42px;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.login {
+    float: right;
+    font-size: 14px;
+}
+
+.login a {
+    color: #c81523;
+}
+
+.reg_form {
+    width: 600px;
+    margin: 50px auto 0;
+}
+
+.reg_form ul li {
+    margin-bottom: 20px;
+}
+
+.reg_form ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+}
+
+.reg_form ul li .inp {
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+}
+
+.error {
+    color: #c81523;
+}
+
+.error_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.png);
+    margin-top: -2px;
+}
+
+.safe {
+    padding-left: 175px;
+
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.safe em:first-child {
+    background-color: red;
+}
+
+.safe em:nth-child(2n) {
+    background-color: green;
+}
+
+.safe em:last-child {
+    background-color: chocolate;
+}
+
+.agree {
+    padding: 30px 0 0 100px;
+}
+
+.agree input {
+    vertical-align: auto;
+
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+.btn {
+    width: 200px;
+    height: 34px;
+    background-color: #c81523;
+    font-size: 14px;
+    color: #fff;
+    margin: 30px 0 0 100px;
+}
