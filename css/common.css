@@ -120,6 +120,7 @@
     text-align: center;
 }
 
+
 .shopcar::before {
     margin-right: 5px;
     content: '\e93a';
@@ -282,7 +283,7 @@
 }
 .maodian {
     position: fixed;
-    top: 90px;
+    top: 250px;
     right: 50%;
     margin-right: 610px;
     width: 115px;
